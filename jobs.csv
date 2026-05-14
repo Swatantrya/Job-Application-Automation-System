@@ -1,0 +1,77 @@
+company,email,role
+Google,careers@google.com,Software Engineer
+Google,jobs@google.com,Backend Developer
+Microsoft,careers@microsoft.com,Python Developer
+Microsoft,hiring@microsoft.com,Cloud Engineer
+Amazon,jobs@amazon.com,Backend Engineer
+Amazon,careers@amazon.com,Full Stack Developer
+Adobe,careers@adobe.com,Software Developer
+Adobe,hiring@adobe.com,Python Engineer
+Infosys,careers@infosys.com,System Engineer
+Infosys,jobs@infosys.com,Java Developer
+TCS,careers@tcs.com,Software Engineer
+TCS,hiring@tcs.com,Backend Developer
+Wipro,careers@wipro.com,Python Developer
+Wipro,jobs@wipro.com,Cloud Engineer
+Accenture,careers@accenture.com,Application Developer
+Accenture,hiring@accenture.com,Full Stack Engineer
+IBM,careers@ibm.com,Software Engineer
+IBM,jobs@ibm.com,DevOps Engineer
+Oracle,careers@oracle.com,Java Developer
+Oracle,hiring@oracle.com,Backend Engineer
+Intel,careers@intel.com,Software Developer
+Intel,jobs@intel.com,System Engineer
+Capgemini,careers@capgemini.com,Python Developer
+Capgemini,hiring@capgemini.com,Cloud Engineer
+Cognizant,careers@cognizant.com,Software Engineer
+Cognizant,jobs@cognizant.com,Backend Developer
+Deloitte,careers@deloitte.com,Technology Analyst
+Deloitte,hiring@deloitte.com,Full Stack Developer
+PayPal,careers@paypal.com,Software Engineer
+PayPal,jobs@paypal.com,API Developer
+Flipkart,careers@flipkart.com,Backend Engineer
+Flipkart,hiring@flipkart.com,Python Developer
+Swiggy,careers@swiggy.com,Software Engineer
+Swiggy,jobs@swiggy.com,Backend Developer
+Zomato,careers@zomato.com,Full Stack Engineer
+Zomato,hiring@zomato.com,Python Developer
+PhonePe,careers@phonepe.com,Software Engineer
+PhonePe,jobs@phonepe.com,Backend Engineer
+Razorpay,careers@razorpay.com,API Developer
+Razorpay,hiring@razorpay.com,Backend Developer
+Uber,careers@uber.com,Software Engineer
+Uber,jobs@uber.com,Cloud Engineer
+Ola,careers@ola.com,Backend Developer
+Ola,hiring@ola.com,Software Engineer
+Netflix,careers@netflix.com,Backend Engineer
+Netflix,jobs@netflix.com,Python Developer
+Spotify,careers@spotify.com,Software Engineer
+Spotify,hiring@spotify.com,Full Stack Developer
+Airbnb,careers@airbnb.com,Backend Developer
+Airbnb,jobs@airbnb.com,Software Engineer
+LinkedIn,careers@linkedin.com,Python Engineer
+LinkedIn,hiring@linkedin.com,Backend Engineer
+Salesforce,careers@salesforce.com,Cloud Developer
+Salesforce,jobs@salesforce.com,Software Engineer
+SAP,careers@sap.com,Java Developer
+SAP,hiring@sap.com,Backend Engineer
+Zoho,careers@zoho.com,Software Developer
+Zoho,jobs@zoho.com,Full Stack Engineer
+Freshworks,careers@freshworks.com,Backend Developer
+Freshworks,hiring@freshworks.com,Software Engineer
+Meesho,careers@meesho.com,Python Developer
+Meesho,jobs@meesho.com,Backend Engineer
+NVIDIA,careers@nvidia.com,Software Engineer
+NVIDIA,hiring@nvidia.com,AI Engineer
+AMD,careers@amd.com,System Engineer
+AMD,jobs@amd.com,Backend Developer
+Samsung,careers@samsung.com,Software Engineer
+Samsung,hiring@samsung.com,Cloud Engineer
+Cisco,careers@cisco.com,Network Software Engineer
+Cisco,jobs@cisco.com,Python Developer
+JP Morgan,careers@jpmorgan.com,Software Engineer
+JP Morgan,hiring@jpmorgan.com,Backend Developer
+Goldman Sachs,careers@goldmansachs.com,Technology Analyst
+Goldman Sachs,jobs@goldmansachs.com,Software Engineer
+Morgan Stanley,careers@morganstanley.com,Python Developer
+Morgan Stanley,hiring@morganstanley.com,Backend Engineer
